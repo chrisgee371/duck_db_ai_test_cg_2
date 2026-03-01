@@ -53,7 +53,7 @@ projectDependencies:
     version: 1.0.8.dev3
     isDefault: true
     author: null
-    createdAt: '2026-02-28 19:11:48'
+    createdAt: '2026-02-28 19:16:50'
 flags:
   shouldAddDefaultDependenciesIfAbsent: false
 pipelineConfigurations: {}
